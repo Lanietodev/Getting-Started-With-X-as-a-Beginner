@@ -1,6 +1,6 @@
 # Getting-Started-With-X-as-a-Beginner
 
-![bastian-riccardi-gR9sDv5W-v8-unsplash](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/3b6d808d-545c-4abe-b51f-be073684175e)
+![X's logo on a plain colored backround](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/3b6d808d-545c-4abe-b51f-be073684175e)
 
 X, formerly twitter, stands out as one of the most popular social media platforms worldwide, with an astonishing 41+ million daily active users. It’s a vibrant hub for various industries, including news, entertainment, technology, and more.
 
@@ -9,37 +9,37 @@ For beginners, it can seem overwhelming. However, with a clear understanding of 
 This guide covers everything you need to get started using X for the first time. You’ll learn how to set up an account, navigate the interface, and how to make the most of it personally.
 ## Setting Up Your X Account
 
-![julian-christ-0I21xHfgw0E-unsplash](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/c6d3916b-08c6-4244-8c00-dabf72dbf3f6)
+![A hand holding a phone with some apps, X included, on display](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/c6d3916b-08c6-4244-8c00-dabf72dbf3f6)
 
 Setting up your X account is the first step on this exciting journey. Whether you're using the mobile or web app, the process is straightforward. Here's a detailed step-by-step guide for both:
 ### On the Web and Mobile
 1. Download the X app (on mobile) or open your web browser and visit [X's website](https://twitter.com/?lang=en).
 2. Click on **Create Account** to start. You may also have options to sign up using Gmail or Apple ID.
 
-![Twitter create an account page](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/28651f74-5d0b-447f-9b8a-cac398da1bca)
+![X interface showing options to sign up with Google and Apple ID, also a "Create account" button](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/28651f74-5d0b-447f-9b8a-cac398da1bca)
 
 3. Provide your name, email, and date of birth.
+   
+![A form showing fields for name, email, and date of birth](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/576d0a7c-9668-4b2f-ba82-cce13dcfe20f)
 
-![alt_text](images/image4.jpg "image_tooltip")
+5. Personalize your experience by selecting language preferences.
+6. Proceed to confirm your information and authenticate your account.
+7. Enter the verification code sent to you.
+8. Create a secure password.
+9. Upload a profile picture and [cover photo/banner](https://www.canva.com/learn/beautiful-twitter-banners/).
 
-4. Personalize your experience by selecting language preferences.
-5. Proceed to confirm your information and authenticate your account.
-6. Enter the verification code sent to you.
-7. Create a secure password.
-8. Upload a profile picture and [cover photo/banner](https://www.canva.com/learn/beautiful-twitter-banners/).
-
-![alt_text](images/image5.jpg "image_tooltip")
+![A prompt page for profile picture upload with a focused "Skip for now" button](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/6188e936-2263-44ee-98ae-f06ab4a92c59)
 
 9. Choose a unique username (handle).
 10. Customize your experience by selecting preferences.
 11. Start following accounts and sharing posts.
 
-![alt_text](images/image6.jpg "image_tooltip")
+![X's connect page showing a list of profiles, their bio snippet, a "follow" button](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/f56f671d-c769-45e7-8bce-3a0daf834a97)
 
 By following these steps, you'll have your X account set up and ready to explore the platform.
 ## Navigating X’s Interface
 
-![alt_text](images/image7.jpg "image_tooltip")
+![X interface showing icons for home, notifications, explore, community, and messages at the bottom of the screen](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/7f24f372-751a-413c-a6ad-1bb0864ddb37)
 
 X homepage serves as your central hub on the platform, featuring your feed consisting of posts from accounts you follow and offering convenient access to various features. Here are features you need to get familiar with:
 1. **Posts:** These are the fundamental building blocks of X. These are short messages, images, videos, or links that users share.
@@ -52,7 +52,7 @@ X homepage serves as your central hub on the platform, featuring your feed consi
 Before you start your X journey, it's crucial to understand how to make your first post. Whether you're using the X mobile app or the web version, here's how you can craft and share your thoughts:
 #### On Mobile
 
-![alt_text](images/image8.jpg "image_tooltip")
+![A pop up screen over X's interface with 4 icon in circles on the bottom corner for composing posts](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/a39ffeb7-17d0-4d58-a700-08fa420a7372)
 
 * Choose the **Compose** icon (the plus bubble on the bottom right corner) to begin.
 * In your post, you can include a combination of up to 4 photos, a GIF, or a video. This means you can add up to 4 media items in total, such as 2 photos, 1 GIF, and 1 video.
@@ -65,7 +65,7 @@ Before you start your X journey, it's crucial to understand how to make your fir
 Note: If you want to save a draft of your post, click the X icon in the top left corner of the compose box and then select Save. To schedule your post for a later date/time, click the calendar icon at the bottom of the compose box, make your schedule choices, and then confirm. To access your drafts and scheduled posts, click Unsent posts in the post compose box.
 ### Navigating Common Elements on A Post
 
-![alt_text](images/image9.jpg "image_tooltip")
+![A post by Elon Musk showing some information at the bottom of the post, along with icons and their stats](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/9bab6be3-f044-4c9c-947f-8c3223c396a2)
 
 Now that you've made your first post, it's essential to understand the common elements you'll encounter when interacting with other users' posts. They are:
 * Like Button (Heart Symbol):
@@ -73,7 +73,7 @@ Now that you've made your first post, it's essential to understand the common el
     * Liking a post is a way to show support or agreement with the content without reposting it.
 * Repost and Quote (Mobile) / Repost, Quote, and View Quotes (Web):
 
-  ![alt_text](images/image10.jpg "image_tooltip")
+  ![A pop-up at the bottom of the screen, showing options for repost and quote](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/9cfc50b4-748a-4b9e-8da1-29ae1723e309)
 
     * On mobile, the repost button enables you to share someone else's post with your followers. You can choose to repost it or repost with your comments.
     * This is a way to amplify content you find interesting or valuable, and it credits the original author.
@@ -94,7 +94,7 @@ Now that you understand how to create and interacting with posts, let's delve de
 Images, videos, and GIFs can help convey your message more effectively and engage your audience visually.
 #### Using Hashtags and Mentions Effectively
 * Hashtags (#) and mentions (@) are valuable tools for increasing the reach and engagement of your posts.
-* [Use relevant hashtags](https://help.twitter.com/en/using-x/how-to-use-hashtags) to categorize your post and make it discoverable to users interested in that topic.
+* [Use relevant hashtag](https://help.twitter.com/en/using-x/how-to-use-hashtags) to categorize your post and make it discoverable to users interested in that topic.
 * Mention other users in your posts by typing "@" followed by their username. This alerts them to your mention and facilitates interaction.
 By incorporating effective hashtags and mentions, you can join relevant conversations, attract a broader audience, and connect with like-minded individuals.
 ### How to Customize Your Feed
@@ -111,7 +111,7 @@ Now that you understand the basics, there are tips you can follow that’ll help
 * **Network and Connect**: Use X as a networking tool. Follow and engage with people in your industry or those who share your interests. Building meaningful connections can lead to collaboration and career opportunities.
 ## Some Extra terms you should be familiar with
 
-![julian-christ-2MBnS4np8i0-unsplash](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/be55e642-419b-40d1-8ec1-349fff245d58)
+![A hand holding a phone with some apps, X included - showing a notification badge, on display](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/be55e642-419b-40d1-8ec1-349fff245d58)
 
 
 * **Pinned Post:** A pinned post is a post that you choose to keep at the top of your profile, ensuring it's the first thing visitors see when they land on your page.
