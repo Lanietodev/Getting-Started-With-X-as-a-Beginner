@@ -79,7 +79,7 @@ By incorporating effective hashtags and mentions, you can join relevant conversa
 1. **Follow Accounts:** The first step to customizing your feed is to follow accounts of interest. These can be friends, celebrities, organizations, or anyone whose posts you want to see regularly.
 2. **Lists:** Organize accounts you follow into lists to streamline your feed and focus on specific topics.
 3. **Mute and Block:** If there are accounts that don't contribute positively to your experience, you can mute or block them to avoid their posts.
-4. **Bookmarks:** Utilize the Bookmarks feature to save posts for later reference. It's a handy way to keep track of posts you find valuable.
+4. **Bookmarks:** Use the Bookmarks feature to save posts for later reference. It's a handy way to keep track of posts you find valuable.
 ## Tips For Using X
 Now that you understand the basics, there are tips you can follow that’ll help you make the most of X. They include:
 * **Engage Actively**: Active engagement is crucial on X. Respond to comments, repost interesting content, and engage in conversations. Interacting with others can help you [grow your presence](https://sproutsocial.com/insights/how-to-get-more-followers-on-twitter/) and connect with like-minded individuals.
