@@ -33,7 +33,7 @@ X homepage serves as your central hub on the platform, featuring your feed consi
 5. **Community:** Explore X Communities, which are spaces where you can join discussions and connect with people who share your interests.
 6. **Spaces:** Join [X Spaces](https://help.twitter.com/en/using-x/spaces), where you can participate in live audio conversations and discussions on a wide range of topics. It's a dynamic way to engage with others.
 ### How to Post
-Before you start your X journey, it's crucial to understand how to make your first post. Whether you're using the X mobile app or the web version, here's how you can craft and share your thoughts:
+Before you start your X journey, it's crucial to understand how to make your first post. Whether you're using the X mobile app or the web version, here's how you can craft and share your thoughts.
 #### On Mobile
 ![A pop up screen over X's interface with 4 icon in circles on the bottom corner for composing posts](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/a39ffeb7-17d0-4d58-a700-08fa420a7372)
 1. Choose the **Compose** icon (the plus bubble on the bottom right corner) to begin.
@@ -65,7 +65,7 @@ Now that you've made your first post, it's essential to understand the common el
     * It lets you save a post to access later, making it easy to refer back to content you want to keep for future reference.
 These elements help to improve engagement, interaction, and content-sharing on X. 
 ### Posting Basics
-Now that you understand how to create and interacting with posts, let's delve deeper into posting basics:
+Now that you understand how to create and interacting with posts, let's delve deeper into posting basics.
 #### Adding Media to Your Posts (Photos, Videos, GIFs)
 Improving your posts with media can make them more captivating.
 * Click the media icon (often a camera or image icon) to select and upload photos, videos, or GIFs from your device.
