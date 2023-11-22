@@ -1,6 +1,7 @@
 # Getting-Started-With-X-as-a-Beginner
 ![X's logo on a plain colored backround](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/3b6d808d-545c-4abe-b51f-be073684175e)
 X, formerly twitter, stands out as one of the most popular social media platforms worldwide, with an astonishing 41+ million daily active users. It’s a vibrant hub for various industries, including news, entertainment, technology, and more.
+
 For beginners, it can seem overwhelming. However, with a clear understanding of its features and some practical guidance, you’d be well on your way to making your first post.
 This guide covers everything you need to get started using X for the first time. You’ll learn how to set up an account, navigate the interface, and how to make the most of it personally.
 ## Setting Up Your X Account
