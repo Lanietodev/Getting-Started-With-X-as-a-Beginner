@@ -36,14 +36,14 @@ X homepage serves as your central hub on the platform, featuring your feed consi
 Before you start your X journey, it's crucial to understand how to make your first post. Whether you're using the X mobile app or the web version, here's how you can craft and share your thoughts:
 #### On Mobile
 ![A pop up screen over X's interface with 4 icon in circles on the bottom corner for composing posts](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/a39ffeb7-17d0-4d58-a700-08fa420a7372)
-* Choose the **Compose** icon (the plus bubble on the bottom right corner) to begin.
-* In your post, you can include a combination of up to 4 photos, a GIF, or a video. This means you can add up to 4 media items in total, such as 2 photos, 1 GIF, and 1 video.
-* Compose your message within a 280-character limit, then click **Post**.
-* A notification will appear in your device's status bar, disappearing once your post successfully sends.
+1. Choose the **Compose** icon (the plus bubble on the bottom right corner) to begin.
+2. In your post, you can include a combination of up to 4 photos, a GIF, or a video. This means you can add up to 4 media items in total, such as 2 photos, 1 GIF, and 1 video.
+3. Compose your message within a 280-character limit, then click **Post**.
+4. A notification will appear in your device's status bar, disappearing once your post successfully sends.
 #### On the Web
-* Enter your post (within the 280-character limit) in the compose box at the top of your Home timeline or use the Post button in the navigation bar.
-* You can include up to 4 photos, a GIF, or a video in your post.
-* Press the Post button to share your post on your profile. 
+1. Enter your post (within the 280-character limit) in the compose box at the top of your Home timeline or use the Post button in the navigation bar.
+2. You can include up to 4 photos, a GIF, or a video in your post.
+3. Press the Post button to share your post on your profile. 
 Note: If you want to save a draft of your post, click the X icon in the top left corner of the compose box and then select Save. To schedule your post for a later date/time, click the calendar icon at the bottom of the compose box, make your schedule choices, and then confirm. To access your drafts and scheduled posts, click Unsent posts in the post compose box.
 ### Navigating Common Elements on A Post
 ![A post by Elon Musk showing some information at the bottom of the post, along with icons and their stats](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/9bab6be3-f044-4c9c-947f-8c3223c396a2)
@@ -67,11 +67,11 @@ These elements help to improve engagement, interaction, and content-sharing on X
 ### Posting Basics
 Now that you understand how to create and interacting with posts, let's delve deeper into posting basics:
 #### Adding Media to Your Posts (Photos, Videos, GIFs)
-* Improving your posts with media can make them more captivating.
+Improving your posts with media can make them more captivating.
 * Click the media icon (often a camera or image icon) to select and upload photos, videos, or GIFs from your device.
 Images, videos, and GIFs can help convey your message more effectively and engage your audience visually.
 #### Using Hashtags and Mentions Effectively
-* Hashtags (#) and mentions (@) are valuable tools for increasing the reach and engagement of your posts.
+Hashtags (#) and mentions (@) are valuable tools for increasing the reach and engagement of your posts.
 * [Use relevant hashtag](https://help.twitter.com/en/using-x/how-to-use-hashtags) to categorize your post and make it discoverable to users interested in that topic.
 * Mention other users in your posts by typing "@" followed by their username. This alerts them to your mention and facilitates interaction.
 By incorporating effective hashtags and mentions, you can join relevant conversations, attract a broader audience, and connect with like-minded individuals.
