@@ -1,6 +1,6 @@
 # Getting-Started-With-X-as-a-Beginner
-![X's logo on a plain colored backround](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/3b6d808d-545c-4abe-b51f-be073684175e)
-X, formerly twitter, stands out as one of the most popular social media platforms worldwide, with an astonishing 41+ million daily active users. It’s a vibrant hub for various industries, including news, entertainment, technology, and more.
+![X's logo on a plain colored background](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/3b6d808d-545c-4abe-b51f-be073684175e)
+X, formerly Twitter, stands out as one of the most popular social media platforms worldwide, with an astonishing 41+ million daily active users. It’s a vibrant hub for various industries, including news, entertainment, technology, and more.
 
 For beginners, it can seem overwhelming. However, with a clear understanding of its features and some practical guidance, you’d be well on your way to making your first post.
 This guide covers everything you need to get started using X for the first time. You’ll learn how to set up an account, navigate the interface, and how to make the most of it personally.
@@ -36,11 +36,11 @@ X homepage serves as your central hub on the platform, featuring your feed consi
 ### How to Post
 Before you start your X journey, it's crucial to understand how to make your first post. Whether you're using the X mobile app or the web version, here's how you can craft and share your thoughts.
 #### On Mobile
-![A pop up screen over X's interface with 4 icon in circles on the bottom corner for composing posts](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/a39ffeb7-17d0-4d58-a700-08fa420a7372)
+![A pop-up screen over X's interface with 4 icons in circles on the bottom corner for composing posts](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/a39ffeb7-17d0-4d58-a700-08fa420a7372)
 1. Choose the **Compose** icon (the plus bubble on the bottom right corner) to begin.
 2. In your post, you can include a combination of up to 4 photos, a GIF, or a video. This means you can add up to 4 media items in total, such as 2 photos, 1 GIF, and 1 video.
 3. Compose your message within a 280-character limit, then click **Post**.
-4. A notification will appear in your device's status bar, disappearing once your post successfully sends.
+4. A notification will appear in your device's status bar, disappearing once your post is successfully sent.
 #### On the Web
 1. Enter your post (within the 280-character limit) in the compose box at the top of your Home timeline or use the Post button in the navigation bar.
 2. You can include up to 4 photos, a GIF, or a video in your post.
@@ -54,19 +54,19 @@ Now that you've made your first post, it's essential to understand the common el
     * Liking a post is a way to show support or agreement with the content without reposting it.
 * Repost and Quote (Mobile) / Repost, Quote, and View Quotes (Web):
   ![A pop-up at the bottom of the screen, showing options for repost and quote](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/9cfc50b4-748a-4b9e-8da1-29ae1723e309)
-    * On mobile, the repost button enables you to share someone else's post with your followers. You can choose to repost it or repost with your comments.
+    * On mobile, the repost button enables you to share someone else's post with your followers. You can choose to repost it or repost it with your comments.
     * This is a way to amplify content you find interesting or valuable, and it credits the original author.
     * On the web version, you also have the option to "View Quotes," allowing you to see other quotes on the post.
 * Comment (Speech Bubble Icon):
-    * The comment feature allows you to add your own comments to someone else's post. When you click it, you can compose your own response, and your comment is visible below the original post.
+    * The comment feature allows you to add your comments to someone else's post. When you click it, you can compose your response, and your comment is visible below the original post.
     * This is useful for providing context, sharing your perspective, or starting a conversation related to the original post.
 * Share Button:
-    * This allows you to share the post through various external methods, such as copying the link or sending it through direct messages and internal methods, like sending as a DM.
+    * This allows you to share the post through various external methods, such as copying the link or sending it through direct messages, and internal methods, like sending it as a DM.
 * Bookmark Button (Flag Symbol):
-    * It lets you save a post to access later, making it easy to refer back to content you want to keep for future reference.
+    * It lets you save a post to access later, making it easy to refer back to the content you want to keep for future reference.
 These elements help to improve engagement, interaction, and content-sharing on X. 
 ### Posting Basics
-Now that you understand how to create and interacting with posts, let's delve deeper into posting basics.
+Now that you understand how to create and interact with posts, let's delve deeper into posting basics.
 #### Adding Media to Your Posts (Photos, Videos, GIFs)
 Improving your posts with media can make them more captivating.
 * Click the media icon (often a camera or image icon) to select and upload photos, videos, or GIFs from your device.
@@ -84,9 +84,9 @@ By incorporating effective hashtags and mentions, you can join relevant conversa
 ## Tips For Using X
 Now that you understand the basics, there are tips you can follow that’ll help you make the most of X. They include:
 * **Engage Actively**: Active engagement is crucial on X. Respond to comments, repost interesting content, and engage in conversations. Interacting with others can help you [grow your presence](https://sproutsocial.com/insights/how-to-get-more-followers-on-twitter/) and connect with like-minded individuals.
-* **Strategic Hashtags**: Use hashtags strategically to increase the visibility of your posts. Research popular and relevant hashtags in your niche and incorporate them into your posts. However, avoid overloading your posts with hashtags, as it can appear spammy.
+* **Strategic Hashtags**: Use hashtags strategically to increase the visibility of your posts. Research popular and relevant hashtags in your niche and incorporate them into your posts. However, avoid overloading your posts with hashtags, as they can appear spammy.
 * **Consistent Posting**: Maintain a consistent posting schedule. Whether you post daily, weekly, or on some other schedule, consistency keeps your audience engaged. [Tools like scheduling apps](https://sproutsocial.com/insights/social-media-scheduling-tools/) can help with this.
-* **Quality Over Quantity**: Focus on the quality of your content. Share valuable insights, interesting articles, and thoughtful opinions. Users are more likely to share and engage with content that is well-crafted.
+* **Quality Over Quantity**: Focus on the quality of your content. Share valuable insights, interesting articles, and thoughtful opinions. Users are more likely to share and engage with well-crafted content.
 * **Network and Connect**: Use X as a networking tool. Follow and engage with people in your industry or those who share your interests. Building meaningful connections can lead to collaboration and career opportunities.
 ## Some Extra terms you should be familiar with
 ![A hand holding a phone with some apps, X included - showing a notification badge, on display](https://github.com/Lanietodev/Getting-Started-With-X-as-a-Beginner/assets/101593463/be55e642-419b-40d1-8ec1-349fff245d58)
